@@ -1,4 +1,4 @@
-# 🎓 Faculty & Course Management API
+ Faculty & Course Management API
 
 A simple Spring Boot REST API for managing university faculty and courses. This project demonstrates a clean Controller–Repository structure without using a service layer.
 
